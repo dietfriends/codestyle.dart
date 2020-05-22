@@ -1,0 +1,10 @@
+name: dietfriends_style
+description: Linter rules corresponding to the guidelines in Effective Dart.
+version: 1.0.0
+author: Minsu Lee <amond@amond.net>
+repository: https://github.com/dietfriends/codestyle.dart
+issue_tracker: https://github.com/dietfriends/codestyle.dart/issues
+homepage: https://github.com/dietfriends/codestyle.dart
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
