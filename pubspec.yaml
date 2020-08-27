@@ -1,9 +1,12 @@
 name: dietfriends_style
 description: Linter rules corresponding to the guidelines in Effective Dart.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/dietfriends/codestyle.dart
 issue_tracker: https://github.com/dietfriends/codestyle.dart/issues
 homepage: https://github.com/dietfriends/codestyle.dart
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
+
+dev_dependencies:
+  pedantic: ^1.9.0
